@@ -1,5 +1,1 @@
-# PrimeirosPassosJavaScript
-Utilizando:
--Operadores
--Decições Condicionais Simples e Compostas
--EncadeamentoIF
+Utilizando: Operadores , encadeamentoIF , switch case ,decições condicionais simples e compostas.
