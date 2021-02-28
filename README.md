@@ -1,2 +1,5 @@
 # PrimeirosPassosJavaScript
-Primeiros passos utilizando Java Script
+Utilizando:
+-Operadores
+-Decições Condicionais Simples e Compostas
+-EncadeamentoIF
